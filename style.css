@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, Segoe UI, Roboto, sans-serif;
+  padding: 24px;
+  background: #0f1720;
+  color: #e6eef6;
+}
+
+header {
+  background: #111827;
+  padding: 20px;
+  border-radius: 8px;
+    margin-bottom: 16px
+}
+
+h1 {
+  font-size: 28px;
+  margin: 0;
+}
+
+p {
+  margin-top: 8px;
+  color: #cbd5e1;
+}
